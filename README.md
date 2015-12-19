@@ -1,7 +1,7 @@
 # Vibrant Color Tutorial
 So lest ihr in Android aus einem Bild die dominanteste Farbe aus, um mit dieser Farbe z.B. die Action Bar einzufärben.
 
-- <a href="" target="_blank" >Tutorial auf YouTube</a>
+- <a href="https://youtu.be/OSglXfl6nMY" target="_blank" >Tutorial auf YouTube</a>
 - Projekt für Android Studio
 
 Gradle-Zeile für die Support-Library:
