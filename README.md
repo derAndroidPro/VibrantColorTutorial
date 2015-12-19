@@ -4,6 +4,11 @@ So lest ihr in Android aus einem Bild die dominanteste Farbe aus, um mit dieser 
 - <a href="" target="_blank" >Tutorial auf YouTube</a>
 - Projekt für Android Studio
 
+Gradle-Zeile für die Support-Library:
+````
+compile 'com.android.support:palette-v7:23.1.0'
+````
+
 ---
 
 Wichtige Dateien: 
